@@ -59,3 +59,9 @@ O projeto é dividido em quatro arquivos principais:
      ]
    }
    ```
+
+## Contribuidores:
+Desenvolvedor: Gabriel Campari Correia, Gabriel Henrique Imolene Vieira, Glenda Borges Ferreira de Carvalho, Stefano Moretti.
+
+## Licença
+Este projeto é licenciado sob a MIT License.
